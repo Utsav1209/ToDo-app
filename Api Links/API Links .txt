@@ -1,0 +1,6 @@
+API Links 
+
+To add - http://localhost:5000/save
+To Update - http://localhost:5000/update
+To delete - http://localhost:5000/delete
+To Get - http://localhost:5000
